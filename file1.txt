@@ -7,3 +7,5 @@ I am in branch A
 who is others ?
 
 I like to do what I want in my branch
+
+now not
