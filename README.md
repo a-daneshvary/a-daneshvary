@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @a-daneshvary
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular
 
 
 <!---
